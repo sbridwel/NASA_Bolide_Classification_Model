@@ -5,6 +5,6 @@ https://sites.ischool.berkeley.edu/goes-bolidemodel/
 
 NOTE: the combined_df.csv comprises of bolide event data from events with a confidence score >= 0.2 (events detected by both GOES 16 and 17 with similar columns were averaged)
 
-bolides-bounding-box package links:
-https://github.com/yajucb/bolides-bounding-box
+bolides-bounding-box package links:<br>
+https://github.com/yajucb/bolides-bounding-box<br>
 https://pypi.org/project/bolides-bounding-box/
